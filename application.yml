@@ -5,7 +5,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/hravada/ffff
+          uri: https://github.com/hravada/ffff.git
           search-paths:
            - '*service'
 
